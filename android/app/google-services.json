@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706741239871",
+    "project_id": "buyafricamade",
+    "storage_bucket": "buyafricamade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706741239871:android:72c5b44196e9a44292f88a",
+        "android_client_info": {
+          "package_name": "com.buyafricamade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706741239871-fu2bja911gmbqjqcq2otl132keevrp28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buyafricamade",
+            "certificate_hash": "733cd453537e8258197edc42c59f7c8858a8cf19"
+          }
+        },
+        {
+          "client_id": "706741239871-7gro81g69kkrhsvavrgqm5r84b8ggbjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPrkz1IkP4vlwQ0LX_v4Iaqezd5ZrLpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706741239871-7gro81g69kkrhsvavrgqm5r84b8ggbjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
