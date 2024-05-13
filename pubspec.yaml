@@ -1,0 +1,107 @@
+name: active_ecommerce_flutter
+description: This is the flutter mobile application for active ecommerce cms
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 2.4.0+14
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: 
+  provider: 
+  json_annotation:
+  logging: 
+  connectivity: 
+  shimmer: 
+  bordered_text: 
+  flutter_html: 
+  flutter_svg: 
+  url_launcher: 
+  toast:
+  shared_preferences: 
+  flutter_icons: 
+  dotted_line:
+  timeline_list:
+  progress_dialog: 
+  after_init:
+  webview_flutter: 
+  clipboard: 
+  google_fonts: 
+  flutter_rating_bar: 
+  expandable: 
+  dropdown_search: 
+  flutter_countdown_timer: 
+  splashscreen: 
+  package_info:
+  intl_phone_number_input: 
+  flutter_chat_bubble: 
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: 
+  carousel_slider: 
+  cached_network_image: 
+  timeline_tile: 
+  shared_value: 
+  rename: 
+  permission_handler: 
+  image_picker: 
+  flutter_facebook_auth: 
+  google_sign_in: 
+  google_maps_place_picker: 
+  firebase_messaging: 
+  one_context: 
+  social_share: 
+  flutter_typeahead: 
+  photo_view: 
+  intl:
+  twitter_login: 
+  flutter_screenutil: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: 
+  json_serializable: 
+  flutter_launcher_icons: 
+  google_maps_flutter: 
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_logo.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/
+    - dummy_assets/
+
+
+
+
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
