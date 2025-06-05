@@ -1,0 +1,20 @@
+[13-Jan-2025 17:55:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/mateatrj/buyafricamade.com/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/mateatrj/buyafricamade.com/config/database.php on line 16
+[13-Jan-2025 17:55:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/mateatrj/buyafricamade.com/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/mateatrj/buyafricamade.com/config/database.php on line 16
+[14-Apr-2025 00:39:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/mateatrj/buyafricamade.com/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/mateatrj/buyafricamade.com/config/cache.php on line 20
+[14-Apr-2025 00:39:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/mateatrj/buyafricamade.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/mateatrj/buyafricamade.com/config/filesystems.php on line 16
+[14-Apr-2025 00:39:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home2/mateatrj/buyafricamade.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/mateatrj/buyafricamade.com/config/view.php on line 17
